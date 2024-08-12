@@ -1,16 +1,17 @@
-## Hi there 👋
+  ## Bem vindo ao meu perfil 
+  
+meu nome é cristhielly paludetto
 
-<!--
-**cristhielly/cristhielly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na [lura](https://www.Alura.com.br)
+  
+- estou me densenvolvendo na linguagem Javascript
+  
+- utilizo esse espaço para minha organização e compatilhamento dos meus projeto desenvolvidos
 
-Here are some ideas to get you started:
+## Voce pode me entra em contato comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+cristhiellysouza4@gmail.com
+
+cristhielly@
+
+![nao agreditar](https://media1.tenor.com/m/wtd7yJEFJqEAAAAC/facepalm-the-huxtables.gif)
